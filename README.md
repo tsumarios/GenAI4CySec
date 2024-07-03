@@ -17,7 +17,7 @@ All the scripts were created with the help of ChatGPT as a demonstration of its 
 
 ## AI4CySec Notebook
 
-Beyond the exercises proposed in the course, this repository also includes a [Jupyter notebook](https://github.com/tsumarios/GenAI4CySec/blob/main/ai4cysec.py) that provides a practical demonstration of how Machine Learning (ML) techniques can be applied for cybersecurity purposes. In particular, the notebook features an example to distinguish between *anti-forensics* techniques and *legitimate privacy* practices.
+Beyond the exercises proposed in the course, this repository also includes a [Jupyter notebook](https://github.com/tsumarios/GenAI4CySec/blob/main/ai4cysec.ipynb) that provides a practical demonstration of how Machine Learning (ML) techniques can be applied for cybersecurity purposes. In particular, the notebook features an example to distinguish between *anti-forensics* techniques and *legitimate privacy* practices.
 
 The notebook includes various classification algorithms such as *K-Nearest Neighbors, Naive Bayes, Logistic Regression, Support Vector Machines, Random Forest, XGBoost,* and *Neural Networks*.
 Futhermore, it provides an introduction to **Adversarial Machine Learning** with an example based on Fast Gradient Sign Method.
