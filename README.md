@@ -4,6 +4,8 @@ A collection of spooky scripts that demonstrate the potential of Large Language 
 
 This repository originated from an initial set of scripts that I wrote while attending the ["Generative AI: Boost Your Cybersecurity Career"](https://www.coursera.org/learn/generative-ai-boost-your-cybersecurity-career) course by IBM.
 
+*Blog post:* <https://tsumarios.github.io/blog/2024/07/13/genai4cysec/>
+
 ## GenAI Scripts
 
 This repository includes the following scripts:
