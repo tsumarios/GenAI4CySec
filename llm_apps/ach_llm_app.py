@@ -2,13 +2,13 @@
 
 import re
 import streamlit as st
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 from os import getenv
 from openai import OpenAI
 
 
 # Load environment variables
-load_dotenv("./secret.env")
+load_dotenv(find_dotenv("./secret.env"))
 
 # Initialise API key and BASE_URL
 API_KEY = getenv("OPENROUTER_API_KEY")
